@@ -38,8 +38,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm an Machine Learning and full-stack Learner passionate about building real-time intelligent systems
-          </p>
+  I&apos;m a Machine Learning and full-stack Learner passionate about building real-time intelligent systems
+</p>
+
           <div>
             <Link
               href="/#contact"
