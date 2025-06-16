@@ -65,11 +65,14 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I&apos;m Saranya G, a passionate Computer Science undergraduate focused on AI and machine learning.
-            I specialize in building intelligent systems like real-time glass-break detection and student attention monitoring.
-            With strong foundations in Python, Java, OpenCV, and ML algorithms, I aim to solve real-world problems using technology.
-            I&apos;m driven by curiosity, continuous learning, and the impact of intelligent systems on daily life.
-          </p>
+  I&apos;m Saranya G, a passionate Computer Science undergraduate focused on AI and machine learning. 
+  I specialize in building intelligent systems like real-time glass-break detection and student attention monitoring. 
+  With strong foundations in Python, Java, OpenCV, and ML algorithms, I aim to solve real-world problems using technology. 
+  I&apos;m driven by curiosity, continuous learning, and the impact of intelligent systems on daily life. 
+  I strive to leverage strong analytical skills and a solid foundation in machine learning to develop predictive models and extract actionable insights from data. 
+  Eager to apply knowledge of algorithms, data processing, and model evaluation in a collaborative environment, while utilizing hands-on experience with modern frontend technologies to enhance user experiences and support innovative solutions.
+</p>
+
           <div className="flex flex-row justify-start mt-8">
             <TabButton
               selectTab={() => handleTabChange("skills")}
