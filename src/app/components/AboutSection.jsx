@@ -23,8 +23,12 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>B.E. Computer Science – St. Joseph's College Of Engineering (2022–2026) – CGPA: 8.96</li>
-        <li>Higher Secondary – Vallalar Matriculation School (2020–2022) – Score: 90.8%</li>
+        <li>
+          B.E. Computer Science – St. Joseph&apos;s College Of Engineering (2022–2026) – CGPA: 8.96
+        </li>
+        <li>
+          Higher Secondary – Vallalar Matriculation School (2020–2022) – Score: 90.8%
+        </li>
       </ul>
     ),
   },
@@ -61,10 +65,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm Saranya G, a passionate Computer Science undergraduate focused on AI and machine learning. 
-            I specialize in building intelligent systems like real-time glass-break detection and student attention monitoring. 
-            With strong foundations in Python, Java, OpenCV, and ML algorithms, I aim to solve real-world problems using technology. 
-            I’m driven by curiosity, continuous learning, and the impact of intelligent systems on daily life.
+            I&apos;m Saranya G, a passionate Computer Science undergraduate focused on AI and machine learning.
+            I specialize in building intelligent systems like real-time glass-break detection and student attention monitoring.
+            With strong foundations in Python, Java, OpenCV, and ML algorithms, I aim to solve real-world problems using technology.
+            I&apos;m driven by curiosity, continuous learning, and the impact of intelligent systems on daily life.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
